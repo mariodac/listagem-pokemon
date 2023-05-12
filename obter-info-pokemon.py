@@ -76,7 +76,7 @@ if __name__ == '__main__':
     # gen = site.find('h2', id='gen-8')
     # gen = site.find('h2', id='gen-9')
     pokemons = gen.parent.find('div', class_='infocard-list').find_all('div', class_='infocard')
-    path_images = criarPasta(nome='imagens', dir_nome=path.dirname(path.realpath(__file__)))
+    path_images = criarPasta(nome='gifs', dir_nome=path.dirname(path.realpath(__file__)))
     for x in pokemons:
         url_gif = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/'
         name = x.find('a', class_='ent-name')
