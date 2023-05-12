@@ -100,7 +100,7 @@ main .cartao-pokemon .tipo{
 }
 
 .grama{
-    background-color: #7ac74c;
+    background-color: #7c5;
 }
 
 .veneno{
@@ -109,15 +109,15 @@ main .cartao-pokemon .tipo{
 }
 
 .fogo{
-    background-color: #ee8130;
+    background-color: #f42;
 }
 
 .agua{
-    background-color: #6390f0;
+    background-color: #39f;
 }
 
 .inseto{
-    background-color: #a6b91a;
+    background-color: #ab2;
 }
 .voador{
     background-color: #89f
@@ -136,35 +136,35 @@ main .cartao-pokemon .tipo{
 }
 
 .gelo{
-    border-color: #6cf;
+    background-color: #6cf;
 }
 
 .lutador{
-    border-color: #b54;
+    background-color: #b54;
 }
 
 .terra{
-    border-color: #db5;
+    background-color: #db5;
 }
 
 .psiquico{
-    border-color: #f59;
+    background-color: #f59;
 }
 
 .rocha{
-    border-color: #ba6;
+    background-color: #ba6;
 }
 
 .fantasma{
-    border-color: #66b;
+    background-color: #66b;
 }
 
 .dragao{
-    border-color: #76e;
+    background-color: #76e;
 }
 
 .escuridao{
-    border-color: #754;
+    background-color: #754;
 }
 
 .aco{
@@ -172,7 +172,7 @@ main .cartao-pokemon .tipo{
 }
 
 .fada{
-    border-color: #e9e;
+    background-color: #e9e;
 }
 
 main .descricao{
